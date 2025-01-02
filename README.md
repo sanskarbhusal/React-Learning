@@ -1,3 +1,3 @@
 # React-Learning
 **Number Colorizer output**
-()[/Number Colorizer/Number Colorizer.png]
+![screenshot of the output](/Number Colorizer/Number Colorizer.png)
