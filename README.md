@@ -7,3 +7,5 @@
 ![screenshot of the output](UserCard/UserCard.png)
 **HexadecimalColors output**
 ![screenshot of the output](HexadecimalColors/HexadecimalColors.png)
+**WorldPopulationAnalytics output**
+![screenshot of the output](WorldPopulationAnalytics.png)
