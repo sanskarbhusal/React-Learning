@@ -8,4 +8,4 @@
 **HexadecimalColors output**
 ![screenshot of the output](HexadecimalColors/HexadecimalColors.png)
 **WorldPopulationAnalytics output**
-![screenshot of the output](WorldPopulationAnalytics.png)
+![screenshot of the output](WorldPopulationAnalytics/WorldPopulationAnalytics.png)
