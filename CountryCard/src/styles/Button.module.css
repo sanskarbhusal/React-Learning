@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+.style {
+  height: 35;
+  font-size: 15;
+  font-weight: normal;
+  background-color: skyblue;
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
